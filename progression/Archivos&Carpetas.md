@@ -71,3 +71,7 @@ nombreDeLaTarea:
    Esto seria que esperas recibir al final de la ejecucion de la tarea
 ### Resumen
 En nuestro archivo crew.py definiremos una clase con metodos para ejecutar a nuestra crew de agentes, metodos que extiendan de @CrewBase para tener una base para CrewAI y dentro de esos metodos los metodos necesarios para poder instanciar agentes (Agents), tareas (Tasks) y la crew (Crew).
+
+## Carpeta: config y archivos: agents.yml, tasks.yml
+### Funcionamiento y Ubicacion
+Los archivos agents.yml y tasks.yml permiten crear agentes y tareas de forma sencilla siguiendo la estructura del archivo YAML para cada caso. Estos archivos iran almacenados dentro de la carpeta 'config' la cual a su vez estara almacenada en nuestro proyecto.
