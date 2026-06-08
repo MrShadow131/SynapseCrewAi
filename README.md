@@ -9,3 +9,7 @@ Claro que como estudiante aun no termino formalizar un contenido completo por es
 ## Funcionamiento
 Para poder hacer que esta IA cobre vida utilizo un framework potente y bastante conocido: CrewAI, el cual me permite establecer un entorno con python y desde alli generar mi propia estructura para tener a mis agentes, herramientas, APIs integradas, documentos, funciones personalizadas, entre muchas otras cosas.
 Como es costumbre en mi habra un apartado donde expresare todo lo que voy haciendo para armar este gran proyecto, desde la creacion de agentes hasta como cerciorarme que el output final sea el que yo quiera.
+
+## ¿Como funciona CrewAI?
+CrewAI es un framework hecho en Python. En "docs/" he dejado guias para poder entender conceptos. Cabe recalcar que esa informacion la saque directamente del sitio web oficial de la documentacion de CrewAI. Si no has entendido mi explicacion quizas te valga mas ir a su guia oficial, eso si esta en ingles nativo:
+*__https://docs.crewai.com/__*
